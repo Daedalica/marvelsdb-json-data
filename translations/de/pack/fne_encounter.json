@@ -1,64 +1,64 @@
 [
     {
         "code": "60032",
-        "flavor": "Daredevil's heightened senses make him vulnerable to intense stimuli.",
-        "name": "Sobrecarga sensorial",
-        "text": "<b><i>Dale esta carta al jugador que lleva a Matt Murdock.</i></b>\n<b>Respuesta obligada</b>: después de que entre en juego una Mejora [[Sentido]], sufres 1 de Daño.\n<b>Respuesta de Alter ego</b>: después de que te recuperes, descarta esta carta."
+        "flavor": "Daredevils geschärfte Sinne können bei ihm leicht eine Reizüberflutung auslösen.",
+        "name": "Reizüberflutung",
+        "text": "<b><i>Gib dies dem Spieler von Matt Murdock.</i></b>\n<b>Erzwungene Reaktion</b>: Nachdem ein [[Sinn]]-Upgrade ins Spiel gekommen ist, nimm 1 Schaden.\n<b>Alter Ego - Reaktion</b>: Nachdem du dich erholt hast, lege diese Karte ab."
     },
     {
         "code": "60033",
-        "flavor": "\"In my hands, anything is a deadly weapon!\"",
+        "flavor": "\"In meinen Händen ist alles eine tödliche Waffe!\"",
         "name": "Bullseye",
-        "text": "<b>Cuando se muestre esta carta</b>: elige una opción:\n\u2022 Descarta un Apoyo [[Individuo]] que controles.\n\u2022 Bullseye te ataca <i>(aunque tengas adoptada la identidad de tu Alter ego)</i>.",
-        "traits": "Asesino."
+        "text": "<b>Sobald aufgedeckt</b>: Wähle:\n\u2022 Lege einen [[Person]]-Vorteil unter deiner Kontrolle ab.\n\u2022 Bullseye greift dich an <i>(selbst in Alter-Ego-Gestalt)</i>.",
+        "traits": "Attentäter."
     },
     {
         "code": "60034",
-        "flavor": "\"C'mon, Hornhead, let's give the people a show!\" \u2014Bullseye",
-        "name": "El hombre más letal del mundo",
-        "text": "<b>Interrupción obligada</b>: cuando Bullseye ataque, dale una carta de aumento boca abajo."
+        "flavor": "\"Komm schon, Hornkopf, bieten wir den Leuten eine Show!\" \u2014Bullseye",
+        "name": "Der tödlichste Mann der Welt",
+        "text": "<b>Erzwungene Unterbrechung</b>: Sobald Bullseye angreift, gib ihm eine verdeckte Boost-Karte."
     },
     {
         "code": "60035",
-        "name": "Sai robado",
-        "text": "Vincula esta carta al enemigo que tenga la puntuación más alta de ATQ.\n[star] Los ataques del personaje vinculado ganan Penetrante.\n<b>Acción de Héroe</b>: gasta recursos [physical] [physical] \u2192 elige entre vincular esta carta a Elektra o bien descartar esta carta.\n<hr />\n[star] <b>Aumento</b>: si esta activación es un ataque, it gana Penetrante.",
-        "traits": "Arma."
+        "name": "Gestohlenes Sai",
+        "text": "Hänge diese Karte an den Gegner mit dem höchsten ANG-Wert an.\n[star] Die Angriffe des Charakters mit diesem Anhang erhalten Durchdringend.\n<b>Held - Aktion</b>: Gib [physical] [physical]-Ressourcen aus. wähle: \u2192 Hänge diese Karte entweder an Elektra an oder lege sie ab.\n<hr />\n[star] <b>Boost</b>: Falls diese Aktivierung ein Angriff ist, erhält er Durchdringend.",
+        "traits": "Waffe."
     },
     {
         "code": "60036",
-        "flavor": "\"Catch!\" \u2014Bullseye",
-        "name": "Blanco a la vista",
-        "text": "<b>Cuando se muestre esta carta</b>: elige una opción:\n\u2022 Retira de la partida un Aliado o Apoyo [[Individuo]] que controles.\n\u2022 Bullseye te ataca <i>(aunque tengas adoptada la identidad de tu Alter ego)</i>. Si no está en juego, localízalo y muéstralo."
+        "flavor": "\"Fang!\" \u2014Bullseye",
+        "name": "Das Ziel fest im Blick",
+        "text": "<b>Sobald aufgedeckt</b>: Wähle:\n\u2022 Entferne einen Verbündeten oder [[Person]]-Vorteil unter deiner Kontrolle aus dem Spiel.\n\u2022 Bullseye greift dich an <i>(selbst in Alter-Ego-Gestalt)</i>. Falls er nicht im Spiel ist, finde ihn und decke ihn auf."
     },
     {
         "code": "60060",
-        "name": "Criada por Kingpin",
-        "text": "<b><i>Dale esta carta al jugador que lleva a Maya Lopez.</i></b>\nNo puedes infligir Daño a Kingpin.\n<b>Cuando se muestre esta carta</b>: localiza a Kingpin y ponlo en juego enfrentado a ti.\n<b>Respuesta</b>: después de que intervengas, coloca esa Amenaza sobre esta carta. Si hay al menos 4 de Amenaza aquí, retira esta carta de la partida."
+        "name": "Von Kingpin aufgezogen",
+        "text": "<b><i>Gib dies dem Spieler von Maya Lopez.</i></b>\nDu kannst Kingpin keinen Schaden zufügen.\n<b>Sobald aufgedeckt</b>: Finde Kingpin und bringe ihn mit dir im Kampf ins Spiel.\n<b>Reaktion</b>: Nachdem du Widerstand geleistet hast, platziere die Bedrohung hier. Falls dann 4 oder mehr Bedrohung auf dieser Karte liegt, entferne sie aus dem Spiel."
     },
     {
         "code": "60061",
-        "flavor": "\"In my own way, I grew to care for you, Maya. I loved you like a daughter. I still do.\"",
+        "flavor": "\"Ich habe mich auf meine Art um dich gekümmert, Maya. Dich wie eine Tochter geliebt. Das tue ich immer noch.\"",
         "name": "Kingpin",
-        "text": "[star] <b>Interrupción obligada</b>: cuando Kingpin vaya a tacar al jugador que lleva a Maya Lopez, en vez de eso ejecuta el Plan.\n<i>(Esbirro Archienemigo de Eco.)</i>",
-        "traits": "Criminal."
+        "text": "[star] <b>Erzwungene Unterbrechung</b>: Sobald Kingpin den Spieler von Maya Lopez angreifen würde, treibt er stattdessen den Plan voran.\n<i>(Echos Erzfeind-Scherge.)</i>",
+        "traits": "Krimineller."
     },
     {
         "code": "60062",
-        "flavor": "\"If you lay a hand on me, you will regret it.\" \u2014Kingpin",
-        "name": "Master Manipulator",
-        "text": "Kingpin no puede sufrir Daño.\n<b>Cuando se muestre esta carta</b>: localiza a Kingpin y ponlo en juego enfrentado a ti.\n<hr />\n[star] <b>Aumento</b>: Si Kingpin está en juego, muestra este Plan."
+        "flavor": "\"Wenn du mich anfasst, wirst du es bereuen.\" \u2014Kingpin",
+        "name": "Meisterhafter Manipulator",
+        "text": "Kingpin kann keinen Schaden nehmen.\n<b>Sobald aufgedeckt</b>: Finde Kingpin und bringe ihn mit dir im Kampf ins Spiel.\n<hr />\n[star] <b>Boost</b>: Falls Kingpin im Spiel ist, decke diesen Plan auf."
     },
     {
         "code": "60063",
-        "flavor": "\"Mr. Fisk would like a word wit' yous.\"",
-        "name": "Kingpin's Henchman",
-        "text": "Guardia.\nKingpin no puede sufrir Daño.",
-        "traits": "Criminal."
+        "flavor": "\"Mr. Fisk will mit dir reden.\"",
+        "name": "Kingpins Handlanger",
+        "text": "Wache.\nKingpin kann keinen Schaden nehmen.",
+        "traits": "Krimineller."
     },
     {
         "code": "60064",
-        "flavor": "Kingpin convinced Eco that it was Daredevil, not Kingpin, who killed her father.",
-        "name": "Peón de Kingpin",
-        "text": "<b>Cuando se muestre esta carta (Alter ego)</b>: si Kingpin está en juego, ejecuta el Plan. De no ser así, esta carta gana Oleada.\n<b>Cuando se muestre esta carta (Héroe)</b>: inflige tanto Daño a un Héroe como el ATQ de tu Héroe."
+        "flavor": "Kingpin überzeugte Echo davon, dass es Daredevil und nicht Kingpin war, der ihren Vater getötet hatte.",
+        "name": "Kingpins Schachfigur",
+        "text": "<b>Sobald aufgedeckt (Alter Ego)</b>: Falls Kingpin im Spiel ist, treibt er den Plan voran. Ansonsten erhält diese Karte Nachrüsten.\n<b>Sobald aufgedeckt (Held)</b>: Füge einem Helden Schaden in Höhe des ANG-Wertes deines Helden zu."
     }
 ]
